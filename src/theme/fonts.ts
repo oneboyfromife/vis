@@ -1,0 +1,16 @@
+export default {
+  REGULAR: 'Aeonik-Regular',
+  BOLD: 'Aeonik-Bold',
+  ITALIC: 'Aeonik-Italic',
+  LIGHT: 'Aeonik-Light',
+  MEDIUM: 'Aeonik-Medium',
+  AIR: 'Aeonik-Air',
+  THIN: 'Aeonik-Thin',
+  BLACK: 'Aeonik-Black',
+  BOLD_ITALIC: 'Aeonik-BoldItalic',
+  LIGHT_ITALIC: 'Aeonik-LightItalic',
+  MEDIUM_ITALIC: 'Aeonik-MediumItalic',
+  AIR_ITALIC: 'Aeonik-AirItalic',
+  THIN_ITALIC: 'Aeonik-ThinItalic',
+  BLACK_ITALIC: 'Aeonik-BlackItalic',
+};
